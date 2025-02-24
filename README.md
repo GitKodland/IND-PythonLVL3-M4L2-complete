@@ -1,7 +1,11 @@
-## Hi! 
-### In order for the bot to work, you should:
-1. Add images to the img folder
-2. Run the logic.py files once. After that, the database with the prize table will appear in the repository
-3. Insert the token of your Discord bot in the config.py file
-4. Run the bot.py file to start it
-5. To test the rating system, send the !rating command
+## Halo Teman-teman! 👋
+
+### Agar bot kamu bisa bekerja dengan baik, ikuti langkah-langkah seru ini ya:
+
+1. Tambahkan gambar-gambar keren kamu ke folder `img` 🖼️
+2. Jalankan file `logic.py` satu kali. Setelah itu, database dengan tabel hadiah akan muncul di repository kamu ✨
+3. Masukkan token Discord bot kamu ke dalam file `config.py` 🔑
+4. Jalankan file `bot.py` untuk memulai botnya 🚀
+5. Untuk mencoba sistem rating yang keren, kirim perintah `!rating` di Discord 🌟
+
+Selamat mencoba dan bersenang-senang! 😊
